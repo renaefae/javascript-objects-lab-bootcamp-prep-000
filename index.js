@@ -7,7 +7,7 @@ console.log(newRecipe);
 
 delete newRecipe.quiche ;
 
-newRecipe
+newRecipe;
  console.log(newRecipe);
-recipes 
+recipes;
 console.log(recipes);
